@@ -1,0 +1,13 @@
+# Exclude personal portfolio data
+references/portfolio-state.md
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
